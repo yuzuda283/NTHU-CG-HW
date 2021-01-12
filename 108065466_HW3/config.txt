@@ -1,0 +1,16 @@
+../../../ColorModels/al7KC.obj
+../../../ColorModels/armadillo12KC.obj
+../../../ColorModels/boxC.obj
+../../../ColorModels/boxC2.obj
+../../../ColorModels/buddha50KC.obj
+../../../ColorModels/bunny5KC.obj
+../../../ColorModels/cow3KC.obj
+../../../ColorModels/Dino20KC.obj
+../../../ColorModels/dolphinC.obj
+../../../ColorModels/dragon10KC.obj
+../../../ColorModels/happy10KC.obj
+../../../ColorModels/horse5KC.obj
+../../../ColorModels/icosahedronC.obj
+../../../ColorModels/laurana2KC.obj
+../../../ColorModels/lucy25KC.obj
+../../../ColorModels/teapot4KC.obj
