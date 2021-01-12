@@ -1,0 +1,50 @@
+﻿D:\vs2017\IDLE\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(108065466__HW1.vcxproj, OpenGLFramework-VS2017.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  glad.c
+  main.cpp
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(155): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(172): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(190): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(261): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(262): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(288): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(289): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(413): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(475): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(476): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(481): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(484): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(490): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(494): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(498): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(513): warning C4101: “xpos”: 未引用的局部变量
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(513): warning C4101: “ypos”: 未引用的局部变量
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(544): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(545): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(546): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(547): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(555): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(556): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(559): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(560): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(563): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(564): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(567): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(568): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(572): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(573): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(577): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(578): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(802): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(802): note: 请考虑在格式字符串中使用“%zd”
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(802): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(802): note: 请考虑在格式字符串中使用“%zd”
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(814): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(839): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(861): warning C4305: “参数”: 从“double”到“GLfloat”截断
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(868): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\main.cpp(875): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  textfile.cpp
+e:\opengl\108065466_hw1_v2\openglframework-vs2017\textfile.cpp(23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  OpenGLFramework-VS2017.vcxproj -> E:\OpenGL\108065466_HW1_v2\x64\Debug\108065466__HW1_v2.exe
